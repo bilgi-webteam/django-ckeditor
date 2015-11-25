@@ -311,3 +311,10 @@ Example ckeditor configuration
                 ]),
         }
     }
+
+Change Log
+==========
+
+**2015-11-25**
+
+* Added: Turkish Locale for `ckeditor_uploader`
